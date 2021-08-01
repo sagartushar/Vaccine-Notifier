@@ -16,4 +16,5 @@ Step 3) On your terminal run: npm i && pm2 start vaccineNotifier.js
 To close the app run: pm2 stop vaccineNotifier.js && pm2 delete vaccineNotifier.js
 
 Here's a sample of the resultant emails:
-![image info](./sample of mail.png)
+![image](https://user-images.githubusercontent.com/57557780/127762592-2f4aee17-9963-44e9-a97e-cde65b069c2c.png)
+
